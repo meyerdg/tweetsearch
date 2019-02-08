@@ -17,8 +17,7 @@ Net::Twitter
 Data::Dumper
 Math::BigInt
 ```
-There is help for both in this script and may or may not still be valid. It's left in place from JWZs original tweet dump code.
 
-This scripts as written was mainly used here:
+This script as written was mainly used here:
 https://www.reddit.com/r/UnfavorableSemicircle/comments/6j2d54/clawing_back_missing_data_from_twitter/
 
