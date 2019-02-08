@@ -11,8 +11,12 @@ Based on a twitter-backup script written by JWZ - https://www.jwz.org/hacks/twit
 and released snowflake (tweet id) generator code from twitter translated from scala to perl
 https://github.com/twitter/snowflake/tree/snowflake-2010
 
-Requires several perl modules and a twitter API enabled account. 
-
+Requires the following perl modules and a twitter API enabled account:
+```perl
+Net::Twitter
+Data::Dumper
+Math::BigInt
+```
 There is help for both in this script and may or may not still be valid. It's left in place from JWZs original tweet dump code.
 
 This scripts as written was mainly used here:
